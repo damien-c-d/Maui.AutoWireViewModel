@@ -1,0 +1,1 @@
+# Maui.AutoWireViewModel
